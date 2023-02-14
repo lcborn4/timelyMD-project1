@@ -1,7 +1,9 @@
-TimelyMD Project
-by Logan Born
+# TimelyMD Project
+### by Logan Born
 
-make sure you have docker installed
+## Prerequisites 
+- docker installed
 
-To start
-docker-compose up
+
+### To start
+``` docker-compose up ```
