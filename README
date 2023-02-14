@@ -1,0 +1,7 @@
+TimelyMD Project
+by Logan Born
+
+make sure you have docker installed
+
+To start
+docker-compose up
