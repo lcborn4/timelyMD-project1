@@ -8,5 +8,5 @@
 ### To start
 ``` docker-compose up ```
 
-### Swagger
-localhost:3000/api-docs
+### API Docs
+[Swagger](http://localhost:3000/api-docs)
