@@ -75,8 +75,6 @@ router.post("/verify/:email", async function (req, res, next) {
 
 // ○ Forgotten password retrievals
 router.post("/forgot-password", function (req, res, next) {
-  //doesn't need jwt
-
   res.send("respond with a resource");
 });
 
